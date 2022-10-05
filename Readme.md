@@ -25,7 +25,7 @@
 - It took me around 60 minutes to built this website from scratch.
 
 ## Links
-- [live demo]()
+- [live demo](https://age-cal-jsx.netlify.app/)
 - [source](https://github.com/RAM844/Age-Calculator-using-javascript)
 
 
