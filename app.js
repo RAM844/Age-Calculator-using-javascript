@@ -67,6 +67,7 @@ darkBtn.addEventListener("click",()=>{
          darkBtn.style.backgroundColor="#343434";
          darkBtn.style.color="#fff";
          darkBtn.textContent="Dark Mode";
+         darkBtn.style.borderColor="#fff";
     }
 } )
 

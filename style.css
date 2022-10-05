@@ -26,7 +26,10 @@ body {
     color: #fff;
     background-color: #343434;
     cursor: pointer;
-    outline: dotted #000 2px;
+    border-top: dotted #000 2px;
+    border-left:dotted #000 2px ;
+    border-bottom: dotted #000 2px;
+
     font-weight:900;
 }
 .container {
